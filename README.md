@@ -2,15 +2,19 @@
 
 <h1 align="center">Hey, soy Luis Fernando! </h1>
 <h3 align="center">Entusiasta de la tecnología, me gusta el codigo y combinarlo con hardware.🌟.</h3>
-<p>Recien egrese de ing.Comunicaciones y electrinica con especialidad en computacion de ESIME IPN. Me especializo en desarrollo con Python, JavaScript y c++. Utilizo tecnologías como ESP32, Raspberry pi, Orange pi, linux. Tengo experiencia usando API, bibliotecas, así como con bases de datos MySQL ya sea para guardar datos de sensores o guardar datos que un usuario requiera. Vivo en Estado de mexico, Eactepec.</p>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="250" height="250" /></p>
+<p>Recien egrese de ing.Comunicaciones y electronica con especialidad en computacion de ESIME IPN. Me especializo en desarrollo con Python, JavaScript y c++. Utilizo tecnologías como ESP32, Raspberry pi, Orange pi, linux. Tengo experiencia usando API, Me gusta explorar nuevas tecnologias y como funcionan los frameworks , así como usar bases de datos MySQL ya sea para guardar datos de sensores o guardar datos que un usuario requiera. Vivo en Estado de mexico, Eactepec.</p>
+
+
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/613b56e2-f7ac-4641-82f1-7624d3946acd" width="45%" />
+  <img src="https://github.com/user-attachments/assets/99488a80-3d1e-4257-89e5-c0151b100838" width="45%" /> 
+</p>
+
 
 - 📫 How to reach me **luisfernandojuarezO117@outlook.com**
-
-
-
-![0908](https://github.com/user-attachments/assets/613b56e2-f7ac-4641-82f1-7624d3946acd)
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
