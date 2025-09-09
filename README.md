@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey, soy Luis Fernando! </h1>
 <h3 align="center">Entusiasta de la tecnología, me gusta el codigo y combinarlo con hardware.🌟.</h3>
-<p>Recien egrese de ing.Comunicaciones y electronica con especialidad en computacion de ESIME IPN. Me especializo en desarrollo con Python, JavaScript y c++. Utilizo tecnologías como ESP32, Raspberry pi, Orange pi, linux. Tengo experiencia usando API, Me gusta explorar nuevas tecnologias y como funcionan los frameworks , así como usar bases de datos MySQL ya sea para guardar datos de sensores o guardar datos que un usuario requiera. Vivo en Estado de mexico, Eactepec.</p>
+<p>Recien egrese de Ing.Comunicaciones y electronica con especialidad en computacion de ESIME IPN. Me especializo en desarrollo con Python, JavaScript y c++. Utilizo tecnologías como ESP32, Raspberry pi, Orange pi, linux. Tengo experiencia usando API, Me gusta explorar nuevas tecnologias y como funcionan los frameworks , así como usar bases de datos MySQL ya sea para guardar datos de sensores o guardar datos que un usuario requiera. Vivo en Estado de mexico, Eactepec.</p>
 
 
 
@@ -50,7 +50,6 @@
        <img src="https://skillicons.dev/icons?i=git&theme=light" width="60" height="60"/>
        <img src="https://skillicons.dev/icons?i=arduino&theme=light" width="60" height="60"/>
        <img src="https://skillicons.dev/icons?i=bash&theme=light" width="60" height="60"/>
-       <img src="https://skillicons.dev/icons?i=arduino&theme=light" width="60" height="60"/>
        <img src="https://skillicons.dev/icons?i=flask&theme=light" width="60" height="60"/>
        <img src="https://skillicons.dev/icons?i=linux&theme=light" width="60" height="60"/>
        <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="60" height="60"/>
