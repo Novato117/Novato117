@@ -54,7 +54,7 @@
        <img src="https://skillicons.dev/icons?i=linux&theme=light" width="60" height="60"/>
        <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="60" height="60"/>
        <img src="https://skillicons.dev/icons?i=opencv&theme=light" width="60" height="60"/>
-       <img src="https://skillicons.dev/icons?i=ubuntu&theme=light" width="60" height="60"/>
+       <img src="https://skillicons.dev/icons?i=kali&theme=light" width="60" height="60"/>
        <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="60" height="60"/>
        <img src="https://skillicons.dev/icons?i=ubuntu&theme=light" width="60" height="60"/>
       </p>
