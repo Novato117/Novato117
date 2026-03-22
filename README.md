@@ -13,7 +13,7 @@
   <img src="https://github.com/user-attachments/assets/99488a80-3d1e-4257-89e5-c0151b100838" width="40%" /> 
 </p>
 
-<h>- 📫 Contactame conmigo **luisfernandojuarezO117@outlook.com**</h>
+<h>- 📫**</h>
 <br>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
